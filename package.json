@@ -1,0 +1,37 @@
+{
+  "name": "use-hot-key",
+  "version": "1.0.0",
+  "description": "React hook to trigger a callback on keyboard events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExodusMovement/use-hot-key.git"
+  },
+  "keywords": [
+    "react",
+    "hot",
+    "key",
+    "bind",
+    "keyboard",
+    "hook",
+    "shortcut"
+  ],
+  "author": "kklash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExodusMovement/use-hot-key/issues"
+  },
+  "homepage": "https://github.com/ExodusMovement/use-hot-key#readme",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "jsdom": "12.1.0",
+    "jsdom-global": "3.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
